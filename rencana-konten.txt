@@ -3,7 +3,10 @@ RENCANA KONTEN
 - JavaScript
   * ES6
   * Framework JavaScript
-  * Struktur Data Dasar
+    > Vue
+    > React
+- Struktur Data Dasar
 - HTML CSS
 - Portfolio
 - E-commerce
+- PHP
