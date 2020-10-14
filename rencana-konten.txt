@@ -1,0 +1,6 @@
+RENCANA KONTEN
+- Landingpage
+- JavaScript
+- HTML CSS
+- Portfolio
+- E-commerce
