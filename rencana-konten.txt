@@ -1,0 +1,8 @@
+RENCANA KONTEN
+- Landingpage
+- JavaScript
+  * ES6
+  * Framework JavaScript
+- HTML CSS
+- Portfolio
+- E-commerce
